@@ -18,7 +18,7 @@ Now trying to sync up en masse.
 Total background column means nothing
 
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>WZ</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>10.91+- 1.59</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| 
 
 ### Mia's raw yields
@@ -32,5 +32,5 @@ Total background column means nothing
 ### Philip's Raw yields (entire cutflow with only SSmm channel)
 
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>WZ</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |<sub>1.00+- 1.00</sub>| <sub>29.00+- 5.39</sub>| <sub>21.00+- 4.58</sub>| <sub>64.00+- 8.00</sub>| <sub>0.00+- 0.00</sub>| <sub>47.00+- 6.86</sub>| <sub>0.00+- 0.00</sub>| <sub>2.00+- 1.41</sub>| <sub>299.00+- 17.29</sub>| <sub>179.00+- 13.38</sub>| 
