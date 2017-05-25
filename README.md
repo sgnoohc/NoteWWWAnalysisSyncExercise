@@ -6,9 +6,14 @@ https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgf
 Synced up running few samples separately.
 Now trying to sync up en masse.
 
+### Mia's weighted yields
+
+
+<img src="MLiu20170525_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
+
 ### HJ's weighted yields
 
-<img src="HWeber20170524_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
+<img src="HWeber20170525_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
 ### Philip's Weighted yields
 
@@ -37,7 +42,7 @@ Now trying to sync up en masse.
 
 ### HJ's raw yields
 
-<img src="HWeber20170524_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
+<img src="HWeber20170525_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
 
 ### Philip's Raw yields
 
