@@ -42,7 +42,7 @@ Now trying to sync up en masse.
 
 ### HJ's raw yields
 
-<img src="HWeber20170525_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
+<img src="HWeber20170525_WWW_RawSyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
 ### Philip's Raw yields
 
