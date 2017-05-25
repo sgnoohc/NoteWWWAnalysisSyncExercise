@@ -8,7 +8,6 @@ Now trying to sync up en masse.
 
 ### Mia's weighted yields
 
-
 <img src="MLiu20170525_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
 ### HJ's weighted yields
@@ -39,6 +38,9 @@ Now trying to sync up en masse.
  | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0              | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 
  | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0              | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 0.0       | +-    | 0.0         | 
 
+### Mia's raw yields
+
+<img src="MLiu20170525_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
 
 ### HJ's raw yields
 
