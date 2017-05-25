@@ -14,7 +14,7 @@ Now trying to sync up en masse.
 
 <img src="HWeber20170525_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Philip's Weighted yields (entire cutflow with only SSmm channel)
+### Philip's Weighted yields only SSmm
 Total background column means nothing
 
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>WZ</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|
@@ -29,7 +29,7 @@ Total background column means nothing
 
 <img src="HWeber20170525_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Philip's Raw yields (entire cutflow with only SSmm channel)
+### Philip's Raw yields only SSmm
 
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>WZ</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
