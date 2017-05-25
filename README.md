@@ -30,9 +30,11 @@ Now trying to sync up en masse.
 
 ### Philip's Raw yields (entire cutflow with only SSmm channel)
 
+<sub>
 |W%l|ZZ%l|tt1l%l|wwwincl%l|Total Background|WW%f|WZ%f|Z%f|tt2l%f|ttX%f|tX%f|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |1.00+- 1.00| 29.00+- 5.39| 21.00+- 4.58| 64.00+- 8.00| 527.00+- 22.96| 0.00+- 0.00| 47.00+- 6.86| 0.00+- 0.00| 2.00+- 1.41| 299.00+- 17.29| 179.00+- 13.38|
+</sub>
 
 
 ## Philip's section (May 25th)
