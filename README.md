@@ -10,7 +10,7 @@ Now trying to sync up en masse.
 
 <img src="HWeber20170524_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Weighted yields
+### Philip's Weighted yields
 
  | wwwincl%l |       |             | wwwmia%l  |       |             | Total Background |       |             | ttX%f     |       |             | VV%f      |       |             | WZ%f      |       |             | tX%f      |       |             | tt%f      |       |             | V%f       |       |             | 
  | --------- | ----- | ----------- | --------- | ----- | ----------- | ---------        | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | 
@@ -39,7 +39,7 @@ Now trying to sync up en masse.
 
 <img src="HWeber20170524_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Raw yields
+### Philip's Raw yields
 
  | wwwincl%l |       |             | wwwmia%l  |       |             | Total Background |       |             | WZ%f      |       |             | V%f       |       |             | VV%f      |       |             | ttX%f     |       |             | tt%f      |       |             | tX%f      |       |             | 
  | --------- | ----- | ----------- | --------- | ----- | ----------- | ---------        | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | --------- | ----- | ----------- | 
