@@ -137,6 +137,154 @@ Now trying to sync up en masse.
  | ```VarUtil::Mass(ana_data.lepcol["goodlep"][0], ana_data.lepcol["goodlep"][1]) >  40.    ```  | 4.1       | +-    | 0.6         | 57.9      | +-    | 7.2         | 1411.4           | +-    | 88.7        | 6.4       | +-    | 1.0         | 13.4      | +-    | 1.2         | 25.0      | +-    | 2.4         | 4.8       | +-    | 1.1         | 43.0      | +-    | 3.4         | 1318.8    | +-    | 88.6        | 
  | ```VarUtil::Mass(ana_data.lepcol["goodlep"][0], ana_data.lepcol["goodlep"][1]) >  40.    ```   | 3.1       | +-    | 0.5         | 39.6      | +-    | 6.0         | 192.3            | +-    | 30.4        | 4.7       | +-    | 0.8         | 3.2       | +-    | 0.8         | 18.0      | +-    | 2.0         | 2.7       | +-    | 0.8         | 27.0      | +-    | 2.7         | 136.7     | +-    | 30.2        | 
 
+
+## Sample grouping on Philip
+
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_V_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//wjets_ht100_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//wjets_ht1200_mgmlm_nonext_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//wjets_ht200_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//wjets_ht2500_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//wjets_ht400_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//wjets_ht600_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 7: WWW_v0.1.4/output//wjets_ht800_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 8: WWW_v0.1.4/output//wjets_incl_mgmlm_skim_1_hist.root
+    hadd Source file 9: WWW_v0.1.4/output//dy_m1050_mgmlm_skim_1_hist.root
+    hadd Source file 10: WWW_v0.1.4/output//dy_m50_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 11: WWW_v0.1.4/output//dy_m50_mgmlm_ht100_ext1_skim_1_hist.root
+    hadd Source file 12: WWW_v0.1.4/output//dy_m50_mgmlm_ht1200_nonext_skim_1_hist.root
+    hadd Source file 13: WWW_v0.1.4/output//dy_m50_mgmlm_ht200_ext1_skim_1_hist.root
+    hadd Source file 14: WWW_v0.1.4/output//dy_m50_mgmlm_ht2500_nonext_skim_1_hist.root
+    hadd Source file 15: WWW_v0.1.4/output//dy_m50_mgmlm_ht400_ext1_skim_1_hist.root
+    hadd Source file 16: WWW_v0.1.4/output//dy_m50_mgmlm_ht600_nonext_skim_1_hist.root
+    hadd Source file 17: WWW_v0.1.4/output//dy_m50_mgmlm_ht800_nonext_skim_1_hist.root
+    hadd Source file 18: WWW_v0.1.4/output//gjetsht100_dr0p05_mgmlm_nonext_skim_1_hist.root
+    hadd Source file 19: WWW_v0.1.4/output//gjetsht200_dr0p05_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 20: WWW_v0.1.4/output//gjetsht400_dr0p05_mgmlm_nonext_skim_1_hist.root
+    hadd Source file 21: WWW_v0.1.4/output//gjetsht40_dr0p05_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 22: WWW_v0.1.4/output//gjetsht600_dr0p05_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 23: WWW_v0.1.4/output//wgjets_incl_amcnlo_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_V_1.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_VV_5.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ww_2l2nu_powheg_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//ww_lnuqq_powheg_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//zz_2l2n_powheg_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//zz_2l2q_powheg_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//zz_2q2n_amcnlo_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//zz_4l_powheg_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_VV_5.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_WW_5.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ww_2l2nu_powheg_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//ww_lnuqq_powheg_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_WW_5.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_WZ_6.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//wz_1l3n_amcnlo_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//wz_3lnu_powheg_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//wz_lnqq_amcnlo_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_WZ_6.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_Z_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//dy_m1050_mgmlm_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//dy_m50_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//dy_m50_mgmlm_ht100_ext1_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//dy_m50_mgmlm_ht1200_nonext_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//dy_m50_mgmlm_ht200_ext1_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//dy_m50_mgmlm_ht2500_nonext_skim_1_hist.root
+    hadd Source file 7: WWW_v0.1.4/output//dy_m50_mgmlm_ht400_ext1_skim_1_hist.root
+    hadd Source file 8: WWW_v0.1.4/output//dy_m50_mgmlm_ht600_nonext_skim_1_hist.root
+    hadd Source file 9: WWW_v0.1.4/output//dy_m50_mgmlm_ht800_nonext_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_Z_1.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_tX_2.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//tzq_ll_amcnlo_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//tzq_ll_amcnlo_skim_2_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//tzq_ll_amcnlo_skim_3_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//stt_antitop_incdec_powheg_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//stt_top_incdec_powheg_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//sttw_antitop_nofullhaddecay_powheg_skim_1_hist.root
+    hadd Source file 7: WWW_v0.1.4/output//sttw_top_nofullhaddecay_powheg_skim_1_hist.root
+    hadd Source file 8: WWW_v0.1.4/output//sttwll_madgraph_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_tX_2.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_tt_4.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ttbar_1ltbr_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//ttbar_1ltbr_mgmlm_ext1_skim_2_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//ttbar_1ltop_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//ttbar_1ltop_mgmlm_ext1_skim_2_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//ttbar_dilep_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//ttbar_dilep_mgmlm_ext1_skim_2_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_tt_4.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_tt2l_4.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ttbar_dilep_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//ttbar_dilep_mgmlm_ext1_skim_2_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_tt2l_4.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_ttX,_3.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ttg_incl_amcnlo_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//tth_bb_powheg_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//tth_nonbb_powheg_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//ttw_incl_mgmlm_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//ttz_incl_mgmlm_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_ttX,_3.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_bkg_ttX_3.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ttg_incl_amcnlo_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//tth_bb_powheg_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//tth_nonbb_powheg_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//ttw_incl_mgmlm_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//ttz_incl_mgmlm_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_bkg_ttX_3.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_W_3.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//wjets_ht100_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//wjets_ht1200_mgmlm_nonext_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//wjets_ht200_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//wjets_ht2500_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 5: WWW_v0.1.4/output//wjets_ht400_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 6: WWW_v0.1.4/output//wjets_ht600_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 7: WWW_v0.1.4/output//wjets_ht800_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 8: WWW_v0.1.4/output//wjets_incl_mgmlm_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_W_3.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_ZZ_4.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//zz_2l2n_powheg_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//zz_2l2q_powheg_skim_1_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//zz_2q2n_amcnlo_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//zz_4l_powheg_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_ZZ_4.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_sig1_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//www_2l_mia_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//www_incl_amcnlo_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_sig1_1.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_tt1l_2.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//ttbar_1ltbr_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 2: WWW_v0.1.4/output//ttbar_1ltbr_mgmlm_ext1_skim_2_hist.root
+    hadd Source file 3: WWW_v0.1.4/output//ttbar_1ltop_mgmlm_ext1_skim_1_hist.root
+    hadd Source file 4: WWW_v0.1.4/output//ttbar_1ltop_mgmlm_ext1_skim_2_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_tt1l_2.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_www_incl_2.root
+    hadd compression setting for all ouput: 1
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_www_mia_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//www_2l_mia_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_www_mia_1.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_wwwincl_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//www_incl_amcnlo_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_wwwincl_1.root:/
+    hadd Target file: WWW_v0.1.4/haddoutput/hist_sig_wwwmia_1.root
+    hadd compression setting for all ouput: 1
+    hadd Source file 1: WWW_v0.1.4/output//www_2l_mia_skim_1_hist.root
+    hadd Target path: WWW_v0.1.4/haddoutput/hist_sig_wwwmia_1.root:/
+
+
 ## Samples used from Bobak's v0.1.4
 
 ### Backgrounds

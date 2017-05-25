@@ -1,0 +1,12 @@
+ditto_hadd \
+  -1 'www_incl' '-!' wwwincl \
+  -y 'ttbar_dilep' -Y 'tt2l' \
+  -2 'ttbar_1l' '-@' 'tt1l' \
+  -3 'wjets_' '-#' 'W' \
+  -o 'dy_' -O 'Z' \
+  -r 'wz_1l,wz_3l,wz_ln' -R 'WZ' \
+  -b 'ww_2l2nu,ww_lnuqq' -B 'WW' \
+  -4 'zz_2l,zz_2q,zz_4l' '-$' 'ZZ' \
+  -g 'ttg_,tth_,ttw_incl,ttz_incl' -G 'ttX' \
+  -k 'tzq_,stt_,sttw_,sttwll_' -K 'tX' \
+  -d WWW_v0.1.4/haddoutput -i WWW_v0.1.4/output/
