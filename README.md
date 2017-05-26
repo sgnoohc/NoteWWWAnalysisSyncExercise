@@ -16,11 +16,11 @@ Now trying to sync up en masse.
 
 ### Philip's Weighted yields
 
-|<sub>chan</sub>|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|<sub>WZ</sub>|
-|-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|<sub>mm</sub>|<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| <sub>10.91+- 1.59</sub>| 
-|<sub>ee</sub>|<sub>8.92+- 6.20</sub>| <sub>0.13+- 0.04</sub>| <sub>3.91+- 1.05</sub>| <sub>1.18+- 0.32</sub>| <sub>0.00+- 0.00</sub>| <sub>1.28+- 0.35</sub>| <sub>0.45+- 0.32</sub>| <sub>0.26+- 0.26</sub>| <sub>1.90+- 1.84</sub>| <sub>6.04+- 1.18</sub>| 
-|<sub>em</sub>|<sub>0.29+- 0.15</sub>| <sub>0.28+- 0.07</sub>| <sub>8.71+- 1.56</sub>| <sub>4.16+- 0.60</sub>| <sub>0.92+- 0.65</sub>| <sub>2.26+- 0.27</sub>| <sub>2.54+- 0.82</sub>| <sub>1.32+- 0.59</sub>| <sub>0.06+- 0.06</sub>| <sub>13.00+- 1.74</sub>| 
+|<sub>chan</sub> |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|<sub>WZ</sub>|
+|----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|<sub>mm</sub>   |<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| <sub>10.91+- 1.59</sub>| 
+|<sub>ee</sub>   |<sub>8.92+- 6.20</sub>| <sub>0.13+- 0.04</sub>| <sub>3.91+- 1.05</sub>| <sub>1.18+- 0.32</sub>| <sub>0.00+- 0.00</sub>| <sub>1.28+- 0.35</sub>| <sub>0.45+- 0.32</sub>| <sub>0.26+- 0.26</sub>| <sub>1.90+- 1.84</sub>| <sub>6.04+- 1.18</sub>| 
+|<sub>em</sub>   |<sub>0.29+- 0.15</sub>| <sub>0.28+- 0.07</sub>| <sub>8.71+- 1.56</sub>| <sub>4.16+- 0.60</sub>| <sub>0.92+- 0.65</sub>| <sub>2.26+- 0.27</sub>| <sub>2.54+- 0.82</sub>| <sub>1.32+- 0.59</sub>| <sub>0.06+- 0.06</sub>| <sub>13.00+- 1.74</sub>| 
 |<sub>0SFOS</sub>|<sub>0.00+- 0.00</sub>| <sub>0.36+- 0.07</sub>| <sub>0.00+- 0.00</sub>| <sub>1.66+- 0.40</sub>| <sub>0.00+- 0.00</sub>| <sub>0.66+- 0.18</sub>| <sub>1.82+- 0.72</sub>| <sub>6.32+- 1.29</sub>| <sub>0.00+- 0.00</sub>| <sub>3.95+- 0.96</sub>| 
 |<sub>1SFOS</sub>|<sub>0.00+- 0.00</sub>| <sub>23.55+- 0.57</sub>| <sub>0.00+- 0.00</sub>| <sub>4.23+- 0.58</sub>| <sub>0.46+- 0.46</sub>| <sub>0.97+- 0.39</sub>| <sub>3.33+- 0.82</sub>| <sub>8.69+- 1.51</sub>| <sub>10.95+- 8.88</sub>| <sub>373.30+- 9.31</sub>| 
 |<sub>2SFOS</sub>|<sub>0.00+- 0.00</sub>| <sub>9.63+- 0.36</sub>| <sub>0.00+- 0.00</sub>| <sub>1.39+- 0.31</sub>| <sub>0.00+- 0.00</sub>| <sub>0.33+- 0.25</sub>| <sub>0.70+- 0.23</sub>| <sub>2.63+- 0.83</sub>| <sub>17.79+- 12.28</sub>| <sub>176.20+- 6.40</sub>| 
@@ -35,15 +35,14 @@ Now trying to sync up en masse.
 
 ### Philip's Raw yields
 
-|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>WZ</sub>|
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|<sub>70.00</sub>| <sub>2030.00</sub>| <sub>1470.00</sub>| <sub>4480.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>140.00</sub>| <sub>20930.00</sub>| <sub>12530.00</sub>| <sub>3290.00</sub>| 
-|<sub>280.00</sub>| <sub>770.00</sub>| <sub>980.00</sub>| <sub>1470.00</sub>| <sub>0.00</sub>| <sub>140.00</sub>| <sub>70.00</sub>| <sub>6720.00</sub>| <sub>4550.00</sub>| <sub>1820.00</sub>| 
-|<sub>280.00</sub>| <sub>1610.00</sub>| <sub>2170.00</sub>| <sub>5180.00</sub>| <sub>140.00</sub>| <sub>70.00</sub>| <sub>350.00</sub>| <sub>20160.00</sub>| <sub>14700.00</sub>| <sub>3920.00</sub>| 
-|<sub>0.00</sub>| <sub>1820.00</sub>| <sub>0.00</sub>| <sub>2380.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>1680.00</sub>| <sub>5250.00</sub>| <sub>1680.00</sub>| <sub>1190.00</sub>| 
-|<sub>0.00</sub>| <sub>120610.00</sub>| <sub>0.00</sub>| <sub>4970.00</sub>| <sub>70.00</sub>| <sub>210.00</sub>| <sub>2310.00</sub>| <sub>13160.00</sub>| <sub>90300.00</sub>| <sub>112560.00</sub>| 
-|<sub>0.00</sub>| <sub>49700.00</sub>| <sub>0.00</sub>| <sub>1400.00</sub>| <sub>0.00</sub>| <sub>210.00</sub>| <sub>700.00</sub>| <sub>3920.00</sub>| <sub>46620.00</sub>| <sub>53130.00</sub>| 
-
+|<sub>chan</sub> |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>WZ</sub>|
+|----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+|<sub>mm</sub>   |<sub>1.00</sub>| <sub>29.00</sub>| <sub>21.00</sub>| <sub>64.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>299.00</sub>| <sub>179.00</sub>| <sub>47.00</sub>| 
+|<sub>ee</sub>   |<sub>4.00</sub>| <sub>11.00</sub>| <sub>14.00</sub>| <sub>21.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>96.00</sub>| <sub>65.00</sub>| <sub>26.00</sub>| 
+|<sub>em</sub>   |<sub>4.00</sub>| <sub>23.00</sub>| <sub>31.00</sub>| <sub>74.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>5.00</sub>| <sub>288.00</sub>| <sub>210.00</sub>| <sub>56.00</sub>| 
+|<sub>0SFOS</sub>|<sub>0.00</sub>| <sub>26.00</sub>| <sub>0.00</sub>| <sub>34.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>24.00</sub>| <sub>75.00</sub>| <sub>24.00</sub>| <sub>17.00</sub>| 
+|<sub>1SFOS</sub>|<sub>0.00</sub>| <sub>1723.00</sub>| <sub>0.00</sub>| <sub>71.00</sub>| <sub>1.00</sub>| <sub>3.00</sub>| <sub>33.00</sub>| <sub>188.00</sub>| <sub>1290.00</sub>| <sub>1608.00</sub>| 
+|<sub>2SFOS</sub>|<sub>0.00</sub>| <sub>710.00</sub>| <sub>0.00</sub>| <sub>20.00</sub>| <sub>0.00</sub>| <sub>3.00</sub>| <sub>10.00</sub>| <sub>56.00</sub>| <sub>666.00</sub>| <sub>759.00</sub>| 
 
 
 
