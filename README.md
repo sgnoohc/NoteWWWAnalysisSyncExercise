@@ -234,7 +234,7 @@ Total background column means nothing
 |<sub>0.00+- 0.00</sub>| <sub>6816.00+- 82.56</sub>| <sub>0.00+- 0.00</sub>| <sub>33.00+- 5.74</sub>| <sub>1.00+- 1.00</sub>| <sub>2849.00+- 53.38</sub>| <sub>30.00+- 5.48</sub>| <sub>18.00+- 4.24</sub>| <sub>104.00+- 10.20</sub>| <sub>1906.00+- 43.66</sub>| 
 |<sub>0.00+- 0.00</sub>| <sub>3914.00+- 62.56</sub>| <sub>0.00+- 0.00</sub>| <sub>28.00+- 5.29</sub>| <sub>0.00+- 0.00</sub>| <sub>1523.00+- 39.03</sub>| <sub>20.00+- 4.47</sub>| <sub>11.00+- 3.32</sub>| <sub>71.00+- 8.43</sub>| <sub>984.00+- 31.37</sub>| 
 
-### Philip's weighted yields
+### Philip's weighted yields 3L0SFOS
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>WZ</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |<sub>245033.40+- 4841.88</sub>| <sub>8037.90+- 11.72</sub>| <sub>257393.14+- 268.52</sub>| <sub>290.74+- 4.80</sub>| <sub>2457.05+- 59.43</sub>| <sub>6281.67+- 35.85</sub>| <sub>25361.25+- 75.41</sub>| <sub>48678.52+- 103.00</sub>| <sub>124508.91+- 181.12</sub>| <sub>351168.42+- 2119.34</sub>| 
@@ -246,7 +246,7 @@ Total background column means nothing
 |<sub>0.00+- 0.00</sub>| <sub>0.91+- 0.11</sub>| <sub>0.00+- 0.00</sub>| <sub>1.87+- 0.42</sub>| <sub>0.46+- 0.46</sub>| <sub>0.71+- 0.18</sub>| <sub>8.13+- 1.37</sub>| <sub>2.99+- 0.93</sub>| <sub>7.38+- 1.39</sub>| <sub>0.00+- 0.00</sub>| 
 |<sub>0.00+- 0.00</sub>| <sub>0.90+- 0.11</sub>| <sub>0.00+- 0.00</sub>| <sub>1.87+- 0.42</sub>| <sub>0.46+- 0.46</sub>| <sub>0.69+- 0.18</sub>| <sub>7.89+- 1.35</sub>| <sub>2.99+- 0.93</sub>| <sub>7.38+- 1.39</sub>| <sub>0.00+- 0.00</sub>| 
 
-### Philip's raw yields
+### Philip's raw yields 3L0SFOS
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>WZ</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |<sub>115372.00+- 339.66</sub>| <sub>583330.00+- 763.76</sub>| <sub>919331.00+- 958.82</sub>| <sub>4798.00+- 69.27</sub>| <sub>2814.00+- 53.05</sub>| <sub>155465.00+- 394.29</sub>| <sub>216670.00+- 465.48</sub>| <sub>472577.00+- 687.44</sub>| <sub>712694.00+- 844.21</sub>| <sub>1350936.00+- 1162.30</sub>| 
