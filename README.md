@@ -40,18 +40,9 @@ Now trying to sync up en masse.
 |<sub>mm</sub>   |<sub>1.00</sub>| <sub>29.00</sub>| <sub>21.00</sub>| <sub>64.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>299.00</sub>| <sub>179.00</sub>| <sub>47.00</sub>| 
 |<sub>ee</sub>   |<sub>4.00</sub>| <sub>11.00</sub>| <sub>14.00</sub>| <sub>21.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>96.00</sub>| <sub>65.00</sub>| <sub>26.00</sub>| 
 |<sub>em</sub>   |<sub>4.00</sub>| <sub>23.00</sub>| <sub>31.00</sub>| <sub>74.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>5.00</sub>| <sub>288.00</sub>| <sub>210.00</sub>| <sub>56.00</sub>| 
-|<sub>0SFOS</sub>|<sub>0.00</sub>| <sub>26.00</sub>| <sub>0.00</sub>| <sub>34.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>24.00</sub>| <sub>75.00</sub>| <sub>24.00</sub>| <sub>17.00</sub>| 
-|<sub>1SFOS</sub>|<sub>0.00</sub>| <sub>1723.00</sub>| <sub>0.00</sub>| <sub>71.00</sub>| <sub>1.00</sub>| <sub>3.00</sub>| <sub>33.00</sub>| <sub>188.00</sub>| <sub>1290.00</sub>| <sub>1608.00</sub>| 
+|<sub>0SFOS</sub>|<sub>0.00</sub>| <sub>10112.00</sub>| <sub>0.00</sub>| <sub>44.00</sub>| <sub>1.00</sub>| <sub>28.00</sub>| <sub>18.00</sub>| <sub>132.00</sub>| <sub>3077.00</sub>| <sub>4532.00</sub>| 
+|<sub>1SFOS</sub>|<sub>0.00</sub>| <sub>1429.00</sub>| <sub>0.00</sub>| <sub>27.00</sub>| <sub>0.00</sub>| <sub>3.00</sub>| <sub>10.00</sub>| <sub>83.00</sub>| <sub>1167.00</sub>| <sub>1389.00</sub>| 
 |<sub>2SFOS</sub>|<sub>0.00</sub>| <sub>710.00</sub>| <sub>0.00</sub>| <sub>20.00</sub>| <sub>0.00</sub>| <sub>3.00</sub>| <sub>10.00</sub>| <sub>56.00</sub>| <sub>666.00</sub>| <sub>759.00</sub>| 
-
-|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>WZ</sub>|
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|<sub>1.00</sub>| <sub>29.00</sub>| <sub>21.00</sub>| <sub>64.00</sub>| <sub>0.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>299.00</sub>| <sub>179.00</sub>| <sub>47.00</sub>| 
-|<sub>4.00</sub>| <sub>11.00</sub>| <sub>14.00</sub>| <sub>21.00</sub>| <sub>0.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>96.00</sub>| <sub>65.00</sub>| <sub>26.00</sub>| 
-|<sub>4.00</sub>| <sub>23.00</sub>| <sub>31.00</sub>| <sub>74.00</sub>| <sub>2.00</sub>| <sub>1.00</sub>| <sub>5.00</sub>| <sub>288.00</sub>| <sub>210.00</sub>| <sub>56.00</sub>| 
-|<sub>0.00</sub>| <sub>10112.00</sub>| <sub>0.00</sub>| <sub>44.00</sub>| <sub>1.00</sub>| <sub>28.00</sub>| <sub>18.00</sub>| <sub>132.00</sub>| <sub>3077.00</sub>| <sub>4532.00</sub>| 
-|<sub>0.00</sub>| <sub>1429.00</sub>| <sub>0.00</sub>| <sub>27.00</sub>| <sub>0.00</sub>| <sub>3.00</sub>| <sub>10.00</sub>| <sub>83.00</sub>| <sub>1167.00</sub>| <sub>1389.00</sub>| 
-|<sub>0.00</sub>| <sub>710.00</sub>| <sub>0.00</sub>| <sub>20.00</sub>| <sub>0.00</sub>| <sub>3.00</sub>| <sub>10.00</sub>| <sub>56.00</sub>| <sub>666.00</sub>| <sub>759.00</sub>| 
 
 
 
