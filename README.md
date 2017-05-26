@@ -33,7 +33,7 @@ Now trying to sync up en masse.
 
 <img src="HWeber20170525_WWW_SyncRawCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Philip's Raw yields only SSmm
+### Philip's Raw yields
 
 |<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>WZ</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
