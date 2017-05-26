@@ -14,12 +14,16 @@ Now trying to sync up en masse.
 
 <img src="HWeber20170525_WWW_SyncCutflow.png" alt="Drawing" style="width: 600px;"/>
 
-### Philip's Weighted yields only SSmm
-Total background column means nothing
+### Philip's Weighted yields
 
-|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>WZ</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|
+|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|<sub>WZ</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>10.91+- 1.59</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| 
+|<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| <sub>10.91+- 1.59</sub>| 
+|<sub>8.92+- 6.20</sub>| <sub>0.13+- 0.04</sub>| <sub>3.91+- 1.05</sub>| <sub>1.18+- 0.32</sub>| <sub>0.00+- 0.00</sub>| <sub>1.28+- 0.35</sub>| <sub>0.45+- 0.32</sub>| <sub>0.26+- 0.26</sub>| <sub>1.90+- 1.84</sub>| <sub>6.04+- 1.18</sub>| 
+|<sub>0.29+- 0.15</sub>| <sub>0.28+- 0.07</sub>| <sub>8.71+- 1.56</sub>| <sub>4.16+- 0.60</sub>| <sub>0.92+- 0.65</sub>| <sub>2.26+- 0.27</sub>| <sub>2.54+- 0.82</sub>| <sub>1.32+- 0.59</sub>| <sub>0.06+- 0.06</sub>| <sub>13.00+- 1.74</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>0.36+- 0.07</sub>| <sub>0.00+- 0.00</sub>| <sub>1.66+- 0.40</sub>| <sub>0.00+- 0.00</sub>| <sub>0.66+- 0.18</sub>| <sub>1.82+- 0.72</sub>| <sub>6.32+- 1.29</sub>| <sub>0.00+- 0.00</sub>| <sub>3.95+- 0.96</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>23.55+- 0.57</sub>| <sub>0.00+- 0.00</sub>| <sub>4.23+- 0.58</sub>| <sub>0.46+- 0.46</sub>| <sub>0.97+- 0.39</sub>| <sub>3.33+- 0.82</sub>| <sub>8.69+- 1.51</sub>| <sub>10.95+- 8.88</sub>| <sub>373.30+- 9.31</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>9.63+- 0.36</sub>| <sub>0.00+- 0.00</sub>| <sub>1.39+- 0.31</sub>| <sub>0.00+- 0.00</sub>| <sub>0.33+- 0.25</sub>| <sub>0.70+- 0.23</sub>| <sub>2.63+- 0.83</sub>| <sub>17.79+- 12.28</sub>| <sub>176.20+- 6.40</sub>| 
 
 ### Mia's raw yields
 
@@ -31,9 +35,23 @@ Total background column means nothing
 
 ### Philip's Raw yields only SSmm
 
-|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>WZ</sub>|<sub>Z</sub>|<sub>tt2l</sub>|<sub>ttX</sub>|<sub>tX</sub>|
+|<sub>W</sub>|<sub>ZZ</sub>|<sub>tt1l</sub>|<sub>wwwincl</sub>|<sub>WW</sub>|<sub>ttX</sub>|<sub>tX</sub>|<sub>tt2l</sub>|<sub>Z</sub>|<sub>WZ</sub>|
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-|<sub>1.00+- 1.00</sub>| <sub>29.00+- 5.39</sub>| <sub>21.00+- 4.58</sub>| <sub>64.00+- 8.00</sub>| <sub>0.00+- 0.00</sub>| <sub>47.00+- 6.86</sub>| <sub>0.00+- 0.00</sub>| <sub>2.00+- 1.41</sub>| <sub>299.00+- 17.29</sub>| <sub>179.00+- 13.38</sub>| 
+|<sub>0.08+- 0.08</sub>| <sub>0.40+- 0.07</sub>| <sub>5.85+- 1.28</sub>| <sub>3.75+- 0.55</sub>| <sub>0.00+- 0.00</sub>| <sub>1.81+- 0.21</sub>| <sub>1.82+- 0.70</sub>| <sub>0.53+- 0.37</sub>| <sub>0.00+- 0.00</sub>| <sub>10.91+- 1.59</sub>| 
+|<sub>8.92+- 6.20</sub>| <sub>0.13+- 0.04</sub>| <sub>3.91+- 1.05</sub>| <sub>1.18+- 0.32</sub>| <sub>0.00+- 0.00</sub>| <sub>1.28+- 0.35</sub>| <sub>0.45+- 0.32</sub>| <sub>0.26+- 0.26</sub>| <sub>1.90+- 1.84</sub>| <sub>6.04+- 1.18</sub>| 
+|<sub>0.29+- 0.15</sub>| <sub>0.28+- 0.07</sub>| <sub>8.71+- 1.56</sub>| <sub>4.16+- 0.60</sub>| <sub>0.92+- 0.65</sub>| <sub>2.26+- 0.27</sub>| <sub>2.54+- 0.82</sub>| <sub>1.32+- 0.59</sub>| <sub>0.06+- 0.06</sub>| <sub>13.00+- 1.74</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>0.36+- 0.07</sub>| <sub>0.00+- 0.00</sub>| <sub>1.66+- 0.40</sub>| <sub>0.00+- 0.00</sub>| <sub>0.66+- 0.18</sub>| <sub>1.82+- 0.72</sub>| <sub>6.32+- 1.29</sub>| <sub>0.00+- 0.00</sub>| <sub>3.95+- 0.96</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>23.55+- 0.57</sub>| <sub>0.00+- 0.00</sub>| <sub>4.23+- 0.58</sub>| <sub>0.46+- 0.46</sub>| <sub>0.97+- 0.39</sub>| <sub>3.33+- 0.82</sub>| <sub>8.69+- 1.51</sub>| <sub>10.95+- 8.88</sub>| <sub>373.30+- 9.31</sub>| 
+|<sub>0.00+- 0.00</sub>| <sub>9.63+- 0.36</sub>| <sub>0.00+- 0.00</sub>| <sub>1.39+- 0.31</sub>| <sub>0.00+- 0.00</sub>| <sub>0.33+- 0.25</sub>| <sub>0.70+- 0.23</sub>| <sub>2.63+- 0.83</sub>| <sub>17.79+- 12.28</sub>| <sub>176.20+- 6.40</sub>| 
+
+
+
+
+
+
+
+
+## Additional Info
 
 
 ### Philip's weighted yields SSmm
@@ -257,3 +275,4 @@ Total background column means nothing
 |<sub>0.00+- 0.00</sub>| <sub>68.00+- 8.25</sub>| <sub>0.00+- 0.00</sub>| <sub>40.00+- 6.32</sub>| <sub>1.00+- 1.00</sub>| <sub>38.00+- 6.16</sub>| <sub>0.00+- 0.00</sub>| <sub>62.00+- 7.87</sub>| <sub>244.00+- 15.62</sub>| <sub>58.00+- 7.62</sub>| 
 |<sub>0.00+- 0.00</sub>| <sub>66.00+- 8.12</sub>| <sub>0.00+- 0.00</sub>| <sub>37.00+- 6.08</sub>| <sub>1.00+- 1.00</sub>| <sub>35.00+- 5.92</sub>| <sub>0.00+- 0.00</sub>| <sub>28.00+- 5.29</sub>| <sub>82.00+- 9.06</sub>| <sub>38.00+- 6.16</sub>| 
 |<sub>0.00+- 0.00</sub>| <sub>65.00+- 8.06</sub>| <sub>0.00+- 0.00</sub>| <sub>37.00+- 6.08</sub>| <sub>1.00+- 1.00</sub>| <sub>34.00+- 5.83</sub>| <sub>0.00+- 0.00</sub>| <sub>28.00+- 5.29</sub>| <sub>80.00+- 8.94</sub>| <sub>38.00+- 6.16</sub>| 
+
