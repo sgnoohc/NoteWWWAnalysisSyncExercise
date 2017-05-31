@@ -432,6 +432,7 @@ Now trying to sync up en masse.
 
 ### May 30th final sync
 #### Weighted table
+Each category has two columns. The first is the yield and the second is the error.
 |Category |         W|         W|        ZZ|        ZZ|      tt1l|      tt1l|   wwwincl|   wwwincl|        WW|        WW|        WZ|        WZ|         Z|         Z|        tX|        tX|      tt2l|      tt2l|       ttX|       ttX|
 |---------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | SSmm    |      0.08|      0.08|      0.40|      0.07|      5.85|      1.28|      3.75|      0.55|      2.88|      0.22|     10.91|      1.59|      0.00|      0.00|      1.82|      0.70|      0.53|      0.37|      1.81|      0.21|
